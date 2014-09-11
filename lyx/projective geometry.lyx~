@@ -156,7 +156,7 @@ q & = & n\frac{n\wedge p}{n\cdot p}
 \begin_layout Standard
 \begin_inset Formula 
 \[
-\xymatrix{\mbox{Original Space}\ar[d]_{f}\ar[r]_{\mbox{hard}} & \mbox{Useful Solution}\\
+\xymatrix{\mbox{Original Space}\ar[d]_{f}\ar[r]_{}^{\mbox{hard}} & \mbox{Useful Solution}\\
 \mbox{Complicated Space}\ar[r]^{\mbox{easy}} & \mbox{Useless Solution}\ar[u]_{f^{-1}}
 }
 \]
